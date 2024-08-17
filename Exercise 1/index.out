@@ -1,0 +1,14 @@
+Displaying Graph Connections: 
+
+m -> d
+m -> a
+d -> f
+a -> i
+a -> s
+i -> d
+i -> f
+s -> i
+s -> f
+
+
+Displaying Correct Order of Characters: m a s i d f 
